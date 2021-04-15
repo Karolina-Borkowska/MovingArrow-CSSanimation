@@ -1,2 +1,4 @@
 # MovingArrow-CSSanimation
-Colorful arrow
+
+
+Arrow using text shadow and linear-gradient.
